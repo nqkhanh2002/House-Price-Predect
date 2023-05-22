@@ -86,9 +86,12 @@
       - Chi tiết được trình bày trong file code Predict.ipynb
 
 <h2>4. Hướng dẫn chạy các file code</h2>
-    - **Chạy lệnh 'pip install -r requirements.txt' để cài đặt các thư viện cần thiết**
-    - **Chotot_Scraping_Data.ipynb:** script thu thập data nhà từ trang cho tốt
-    - **rawdata.csv:** data sau khi được crawl (data thô - chưa qua xử lý)
-    - **dataset.csv:** data sau khi trải qua quá trình xử lý
-    - **links_chotot.csv:** link của các ngôi nhà trên trang chợ tốt, ứng vói mỗi ngôi nhà sẽ crawl thông tin chi tiết.
-    - **Predict.ipynb:** file thực hiện tiền xử lý dữ liệu và training data<br><br>
+
+* Chạy lệnh **"pip install -r requirements.txt"** để cài đặt các thư viện cần thiết
+* **Chotot_Scraping_Data.ipynb:** script thu thập data nhà từ trang cho tốt
+* **rawdata.csv:** data sau khi được crawl (data thô - chưa qua xử lý)
+* **dataset.csv:** data sau khi trải qua quá trình xử lý
+* **links_chotot.csv:** link của các ngôi nhà trên trang chợ tốt, ứng vói mỗi ngôi nhà sẽ crawl thông tin chi tiết.
+* **Predict.ipynb:** file thực hiện tiền xử lý dữ liệu và training data
+    
+  <br><br>
